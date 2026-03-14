@@ -1,0 +1,5941 @@
+fileFormatVersion: 2
+guid: 9cf00f01a6fa18040a2707736b9d267e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 284659224239840227
+    second: char_khaki_full_0
+  - first:
+      213: 3890319663737840383
+    second: char_khaki_full_1
+  - first:
+      213: 2783566842339961006
+    second: char_khaki_full_2
+  - first:
+      213: 8345742061867060360
+    second: char_khaki_full_3
+  - first:
+      213: -4223187997117106023
+    second: char_khaki_full_4
+  - first:
+      213: 6545209371521656897
+    second: char_khaki_full_5
+  - first:
+      213: 7659009541319357739
+    second: char_khaki_full_6
+  - first:
+      213: -912911120415585410
+    second: char_khaki_full_7
+  - first:
+      213: 5831089283501946210
+    second: char_khaki_full_8
+  - first:
+      213: -4360718422049292294
+    second: char_khaki_full_9
+  - first:
+      213: -6205349193123491313
+    second: char_khaki_full_10
+  - first:
+      213: 3631401597383135239
+    second: char_khaki_full_11
+  - first:
+      213: -1817777332221715099
+    second: char_khaki_full_12
+  - first:
+      213: 2821926968845244791
+    second: char_khaki_full_13
+  - first:
+      213: 3126730470623350082
+    second: char_khaki_full_14
+  - first:
+      213: 1716841615354663917
+    second: char_khaki_full_15
+  - first:
+      213: -8706437748728885895
+    second: char_khaki_full_16
+  - first:
+      213: -8555598828016178886
+    second: char_khaki_full_17
+  - first:
+      213: 4478540804656493358
+    second: char_khaki_full_18
+  - first:
+      213: 5368290084792451916
+    second: char_khaki_full_19
+  - first:
+      213: -8181266610166690727
+    second: char_khaki_full_20
+  - first:
+      213: 1183845054963801105
+    second: char_khaki_full_21
+  - first:
+      213: 4088345929155309265
+    second: char_khaki_full_22
+  - first:
+      213: -2093043890972703941
+    second: char_khaki_full_23
+  - first:
+      213: -7597950218508331488
+    second: char_khaki_full_24
+  - first:
+      213: 6234455941521218140
+    second: char_khaki_full_25
+  - first:
+      213: -2030663330443220703
+    second: char_khaki_full_26
+  - first:
+      213: -4725371822998244388
+    second: char_khaki_full_27
+  - first:
+      213: 2960164191414294240
+    second: char_khaki_full_28
+  - first:
+      213: 5330608780538285847
+    second: char_khaki_full_29
+  - first:
+      213: 7168719125200882763
+    second: char_khaki_full_30
+  - first:
+      213: 4641118736414699591
+    second: char_khaki_full_31
+  - first:
+      213: 5572623432993095840
+    second: char_khaki_full_32
+  - first:
+      213: 6908166085358699793
+    second: char_khaki_full_33
+  - first:
+      213: 7688549616697363059
+    second: char_khaki_full_34
+  - first:
+      213: 2322415966274561498
+    second: char_khaki_full_35
+  - first:
+      213: 5933644828226930280
+    second: char_khaki_full_36
+  - first:
+      213: -2900639135109259759
+    second: char_khaki_full_37
+  - first:
+      213: -5035745598550399419
+    second: char_khaki_full_38
+  - first:
+      213: -8320930172726480149
+    second: char_khaki_full_39
+  - first:
+      213: 3451587836053630822
+    second: char_khaki_full_40
+  - first:
+      213: -8983215331953182591
+    second: char_khaki_full_41
+  - first:
+      213: -1136857211625941997
+    second: char_khaki_full_42
+  - first:
+      213: -2521428819877360162
+    second: char_khaki_full_43
+  - first:
+      213: -4763785172575972475
+    second: char_khaki_full_44
+  - first:
+      213: 7433561829818831154
+    second: char_khaki_full_45
+  - first:
+      213: -4942058170675997727
+    second: char_khaki_full_46
+  - first:
+      213: 6527750825246035162
+    second: char_khaki_full_47
+  - first:
+      213: 4931967206327190838
+    second: char_khaki_full_48
+  - first:
+      213: -1546615984149716498
+    second: char_khaki_full_49
+  - first:
+      213: 7369437453342333862
+    second: char_khaki_full_50
+  - first:
+      213: 6529695024133694117
+    second: char_khaki_full_51
+  - first:
+      213: 5657850980833471167
+    second: char_khaki_full_52
+  - first:
+      213: 5460891192891913887
+    second: char_khaki_full_53
+  - first:
+      213: 8152544052586974468
+    second: char_khaki_full_54
+  - first:
+      213: 3470245240351738269
+    second: char_khaki_full_55
+  - first:
+      213: 4563367802332164378
+    second: char_khaki_full_56
+  - first:
+      213: -153458558305473246
+    second: char_khaki_full_57
+  - first:
+      213: 5094184464435948436
+    second: char_khaki_full_58
+  - first:
+      213: -343977228781091332
+    second: char_khaki_full_59
+  - first:
+      213: -7164413790138820189
+    second: char_khaki_full_60
+  - first:
+      213: -4634076908365830466
+    second: char_khaki_full_61
+  - first:
+      213: -6334279243724341630
+    second: char_khaki_full_62
+  - first:
+      213: 7467829168913156395
+    second: char_khaki_full_63
+  - first:
+      213: 544338797396360026
+    second: char_khaki_full_64
+  - first:
+      213: -4588888608829969645
+    second: char_khaki_full_65
+  - first:
+      213: -3505674908962477819
+    second: char_khaki_full_66
+  - first:
+      213: 924900678606471047
+    second: char_khaki_full_67
+  - first:
+      213: -7459890178113596738
+    second: char_khaki_full_68
+  - first:
+      213: 8509659170700415793
+    second: char_khaki_full_69
+  - first:
+      213: 5010806266041325023
+    second: char_khaki_full_70
+  - first:
+      213: -8896860552276143854
+    second: char_khaki_full_71
+  - first:
+      213: 1260121923541400245
+    second: char_khaki_full_72
+  - first:
+      213: -6794218093759928689
+    second: char_khaki_full_73
+  - first:
+      213: -4798288543542755135
+    second: char_khaki_full_74
+  - first:
+      213: 410865848861935792
+    second: char_khaki_full_75
+  - first:
+      213: 8569683612923752225
+    second: char_khaki_full_76
+  - first:
+      213: -3591366668097670602
+    second: char_khaki_full_77
+  - first:
+      213: 1360811830375446475
+    second: char_khaki_full_78
+  - first:
+      213: 3213405104148374066
+    second: char_khaki_full_79
+  - first:
+      213: 7595463623382485357
+    second: char_khaki_full_80
+  - first:
+      213: 8304842193472956138
+    second: char_khaki_full_81
+  - first:
+      213: -3433858774542301270
+    second: char_khaki_full_82
+  - first:
+      213: 6224034358735940396
+    second: char_khaki_full_83
+  - first:
+      213: -6890671427512718668
+    second: char_khaki_full_84
+  - first:
+      213: -7176273550942661616
+    second: char_khaki_full_85
+  - first:
+      213: 7756682321211993212
+    second: char_khaki_full_86
+  - first:
+      213: 5185323852717714933
+    second: char_khaki_full_87
+  - first:
+      213: 2645439645412713829
+    second: char_khaki_full_88
+  - first:
+      213: -4489653902688941650
+    second: char_khaki_full_89
+  - first:
+      213: -7347052548133437747
+    second: char_khaki_full_90
+  - first:
+      213: 7772458569950108248
+    second: char_khaki_full_91
+  - first:
+      213: -9158771805556227224
+    second: char_khaki_full_92
+  - first:
+      213: 7362199338675815979
+    second: char_khaki_full_93
+  - first:
+      213: -1156137176550703145
+    second: char_khaki_full_94
+  - first:
+      213: 4308914085805743534
+    second: char_khaki_full_95
+  - first:
+      213: 6173301004990944479
+    second: char_khaki_full_96
+  - first:
+      213: 6192399206607744605
+    second: char_khaki_full_97
+  - first:
+      213: -6904574248357164063
+    second: char_khaki_full_98
+  - first:
+      213: 5349144175601747943
+    second: char_khaki_full_99
+  - first:
+      213: -4277572317957188670
+    second: char_khaki_full_100
+  - first:
+      213: -8316924525975624619
+    second: char_khaki_full_101
+  - first:
+      213: 7868134529137981136
+    second: char_khaki_full_102
+  - first:
+      213: 1809482753630160901
+    second: char_khaki_full_103
+  - first:
+      213: -1043624514765059313
+    second: char_khaki_full_104
+  - first:
+      213: -8836571607834182683
+    second: char_khaki_full_105
+  - first:
+      213: -8324908206070582012
+    second: char_khaki_full_106
+  - first:
+      213: 8333844415981166711
+    second: char_khaki_full_107
+  - first:
+      213: -4642499293454622307
+    second: char_khaki_full_108
+  - first:
+      213: -5306985773876752790
+    second: char_khaki_full_109
+  - first:
+      213: -4143426199508513883
+    second: char_khaki_full_110
+  - first:
+      213: 1266548293137140530
+    second: char_khaki_full_111
+  - first:
+      213: -6172050662625614610
+    second: char_khaki_full_112
+  - first:
+      213: 7961035299057791398
+    second: char_khaki_full_113
+  - first:
+      213: -2884124199343992345
+    second: char_khaki_full_114
+  - first:
+      213: 1100360833822360528
+    second: char_khaki_full_115
+  - first:
+      213: 260397453752515492
+    second: char_khaki_full_116
+  - first:
+      213: 53011642854482567
+    second: char_khaki_full_117
+  - first:
+      213: -8937493101374854359
+    second: char_khaki_full_118
+  - first:
+      213: 8842798846195220016
+    second: char_khaki_full_119
+  - first:
+      213: 5443490035685444041
+    second: char_khaki_full_120
+  - first:
+      213: -6106122686171852675
+    second: char_khaki_full_121
+  - first:
+      213: -1984549414898766011
+    second: char_khaki_full_122
+  - first:
+      213: 4363217690841650506
+    second: char_khaki_full_123
+  - first:
+      213: -1540751393169299302
+    second: char_khaki_full_124
+  - first:
+      213: -393687595385311262
+    second: char_khaki_full_125
+  - first:
+      213: -99244172933295470
+    second: char_khaki_full_126
+  - first:
+      213: -8437676501229625832
+    second: char_khaki_full_127
+  - first:
+      213: 822599572012355576
+    second: char_khaki_full_128
+  - first:
+      213: -3441467476562979714
+    second: char_khaki_full_129
+  - first:
+      213: -3339650960846613719
+    second: char_khaki_full_130
+  - first:
+      213: 7375465451073631289
+    second: char_khaki_full_131
+  - first:
+      213: 1728940997368124033
+    second: char_khaki_full_132
+  - first:
+      213: 5442706102462541835
+    second: char_khaki_full_133
+  - first:
+      213: 5276492021988315330
+    second: char_khaki_full_134
+  - first:
+      213: -7077761184337189389
+    second: char_khaki_full_135
+  - first:
+      213: -4656528340564682706
+    second: char_khaki_full_136
+  - first:
+      213: 3641539749158846814
+    second: char_khaki_full_137
+  - first:
+      213: 1084908367826019431
+    second: char_khaki_full_138
+  - first:
+      213: -6740171536711292379
+    second: char_khaki_full_139
+  - first:
+      213: 5981602617125589952
+    second: char_khaki_full_140
+  - first:
+      213: 2918670449422126289
+    second: char_khaki_full_141
+  - first:
+      213: -5465950276437707003
+    second: char_khaki_full_142
+  - first:
+      213: -2157843756905446751
+    second: char_khaki_full_143
+  - first:
+      213: 7951748251711693883
+    second: char_khaki_full_144
+  - first:
+      213: -665815585521873251
+    second: char_khaki_full_145
+  - first:
+      213: -8586868204758887190
+    second: char_khaki_full_146
+  - first:
+      213: 8537865039352473847
+    second: char_khaki_full_147
+  - first:
+      213: 6349399822258635359
+    second: char_khaki_full_148
+  - first:
+      213: -8865804934890111305
+    second: char_khaki_full_149
+  - first:
+      213: -7018881544463694387
+    second: char_khaki_full_150
+  - first:
+      213: -9089091558908764958
+    second: char_khaki_full_151
+  - first:
+      213: -488517263562007438
+    second: char_khaki_full_152
+  - first:
+      213: -3341173628660279397
+    second: char_khaki_full_153
+  - first:
+      213: -2315210541245000054
+    second: char_khaki_full_154
+  - first:
+      213: -9017846444833582935
+    second: char_khaki_full_155
+  - first:
+      213: -4362801983763741719
+    second: char_khaki_full_156
+  - first:
+      213: 5103340881535645247
+    second: char_khaki_full_157
+  - first:
+      213: -8034352882090600613
+    second: char_khaki_full_158
+  - first:
+      213: 7611998016192603139
+    second: char_khaki_full_159
+  - first:
+      213: -6252639255219468776
+    second: char_khaki_full_160
+  - first:
+      213: 8236232333192502575
+    second: char_khaki_full_161
+  - first:
+      213: -1228953767743049136
+    second: char_khaki_full_162
+  - first:
+      213: -3071858805328416736
+    second: char_khaki_full_163
+  - first:
+      213: -8916224704324013264
+    second: char_khaki_full_164
+  - first:
+      213: 2880066580382736061
+    second: char_khaki_full_165
+  - first:
+      213: 6088120231859926647
+    second: char_khaki_full_166
+  - first:
+      213: 3715386601754295132
+    second: char_khaki_full_167
+  - first:
+      213: -6318953124265841654
+    second: char_khaki_full_168
+  - first:
+      213: 6645579325578736378
+    second: char_khaki_full_169
+  - first:
+      213: 919061020640207742
+    second: char_khaki_full_170
+  - first:
+      213: -2818713650115162434
+    second: char_khaki_full_171
+  - first:
+      213: -8554011790025308446
+    second: char_khaki_full_172
+  - first:
+      213: 2583153936395318239
+    second: char_khaki_full_173
+  - first:
+      213: -7780803556018838309
+    second: char_khaki_full_174
+  - first:
+      213: -6399921350692824045
+    second: char_khaki_full_175
+  - first:
+      213: -8781705346192176184
+    second: char_khaki_full_176
+  - first:
+      213: 1623534712607639562
+    second: char_khaki_full_177
+  - first:
+      213: 3565547597797149796
+    second: char_khaki_full_178
+  - first:
+      213: -599689264468761638
+    second: char_khaki_full_179
+  - first:
+      213: 5520159024581707147
+    second: char_khaki_full_180
+  - first:
+      213: -262793109487438142
+    second: char_khaki_full_181
+  - first:
+      213: -3450892514925418145
+    second: char_khaki_full_182
+  - first:
+      213: -2943993599100232078
+    second: char_khaki_full_183
+  - first:
+      213: -3710315768545201050
+    second: char_khaki_full_184
+  - first:
+      213: -6141458815725682042
+    second: char_khaki_full_185
+  - first:
+      213: 7477302159034020511
+    second: char_khaki_full_186
+  - first:
+      213: -4472073505204256189
+    second: char_khaki_full_187
+  - first:
+      213: 8188956406123166733
+    second: char_khaki_full_188
+  - first:
+      213: 655991061967043805
+    second: char_khaki_full_189
+  - first:
+      213: 416619276034840831
+    second: char_khaki_full_190
+  - first:
+      213: 7637081567502826247
+    second: char_khaki_full_191
+  - first:
+      213: 8526148844983823314
+    second: char_khaki_full_192
+  - first:
+      213: 3715937507555827509
+    second: char_khaki_full_193
+  - first:
+      213: 1203054738444624109
+    second: char_khaki_full_194
+  - first:
+      213: -8788063368943664329
+    second: char_khaki_full_195
+  - first:
+      213: -2059835403862558989
+    second: char_khaki_full_196
+  - first:
+      213: -8288258202917133276
+    second: char_khaki_full_197
+  - first:
+      213: 5838710857047244962
+    second: char_khaki_full_198
+  - first:
+      213: -7567702161187463980
+    second: char_khaki_full_199
+  - first:
+      213: -721233767712651804
+    second: char_khaki_full_200
+  - first:
+      213: 2486945196681214498
+    second: char_khaki_full_201
+  - first:
+      213: 4847833645138432422
+    second: char_khaki_full_202
+  - first:
+      213: 6448442852471031474
+    second: char_khaki_full_203
+  - first:
+      213: -8252599511610667931
+    second: char_khaki_full_204
+  - first:
+      213: -9047632213730754360
+    second: char_khaki_full_205
+  - first:
+      213: 3796836996776520381
+    second: char_khaki_full_206
+  - first:
+      213: -4209109308383253250
+    second: char_khaki_full_207
+  - first:
+      213: 8575622947235174632
+    second: char_khaki_full_208
+  - first:
+      213: -4311571964075330244
+    second: char_khaki_full_209
+  - first:
+      213: 2368257506355798435
+    second: char_khaki_full_210
+  - first:
+      213: 5042363930469640338
+    second: char_khaki_full_211
+  - first:
+      213: -4598952121565384107
+    second: char_khaki_full_212
+  - first:
+      213: -7229543969140610054
+    second: char_khaki_full_213
+  - first:
+      213: 2685780643939811962
+    second: char_khaki_full_214
+  - first:
+      213: 6320213275215703721
+    second: char_khaki_full_215
+  - first:
+      213: -8989756832124191287
+    second: char_khaki_full_216
+  - first:
+      213: -7933815475382850596
+    second: char_khaki_full_217
+  - first:
+      213: -7128120580570843208
+    second: char_khaki_full_218
+  - first:
+      213: -80136176880261763
+    second: char_khaki_full_219
+  - first:
+      213: 4627168872011066067
+    second: char_khaki_full_220
+  - first:
+      213: 4967277231137937576
+    second: char_khaki_full_221
+  - first:
+      213: 5292048266022385906
+    second: char_khaki_full_222
+  - first:
+      213: 326405493075490219
+    second: char_khaki_full_223
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char_khaki_full_0
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 2215
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb9ad66e0053f300800000000000000
+      internalID: 284659224239840227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_1
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 2214
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2afc35f113df530800000000000000
+      internalID: 3890319663737840383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2102
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8aa3e8b4731a620800000000000000
+      internalID: 2783566842339961006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2102
+        width: 98
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c4f98003802d370800000000000000
+      internalID: 8345742061867060360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2102
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998342c54e83465c0800000000000000
+      internalID: -4223187997117106023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_5
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2102
+        width: 111
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1482b12de3145da50800000000000000
+      internalID: 6545209371521656897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_6
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 2102
+        width: 100
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25faa149944a4a60800000000000000
+      internalID: 7659009541319357739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_7
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2102
+        width: 95
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b002c3c20b453f0800000000000000
+      internalID: -912911120415585410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_8
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2104
+        width: 91
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26578b41fc03ce050800000000000000
+      internalID: 5831089283501946210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_9
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2104
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affff3003bd9b73c0800000000000000
+      internalID: -4360718422049292294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_10
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 2102
+        width: 90
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f021e9449cb22e9a0800000000000000
+      internalID: -6205349193123491313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_11
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 2102
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700dec84384556230800000000000000
+      internalID: 3631401597383135239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_12
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 2102
+        width: 94
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56dda28b525f5c6e0800000000000000
+      internalID: -1817777332221715099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_13
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 2100
+        width: 90
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7799d1080af792720800000000000000
+      internalID: 2821926968845244791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_14
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 2098
+        width: 90
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d05e10cc0646b20800000000000000
+      internalID: 3126730470623350082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_15
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 2100
+        width: 95
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de392da5a5273d710800000000000000
+      internalID: 1716841615354663917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_16
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 2102
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d86f70ff48c2780800000000000000
+      internalID: -8706437748728885895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_17
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 2104
+        width: 90
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39e8570238644980800000000000000
+      internalID: -8555598828016178886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1974
+        width: 100
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2374ad2229f62e30800000000000000
+      internalID: 4478540804656493358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1974
+        width: 112
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c434e43c36fff7a40800000000000000
+      internalID: 5368290084792451916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_20
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1974
+        width: 124
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c00404d5d467e80800000000000000
+      internalID: -8181266610166690727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_21
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1974
+        width: 113
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c58322eccdd6010800000000000000
+      internalID: 1183845054963801105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_22
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1974
+        width: 100
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de673a26f8bcb830800000000000000
+      internalID: 4088345929155309265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_23
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1974
+        width: 125
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33454baba304f2e0800000000000000
+      internalID: -2093043890972703941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_24
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1974
+        width: 127
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02695bc2888ae8690800000000000000
+      internalID: -7597950218508331488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_25
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1974
+        width: 127
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a1232b5ac358650800000000000000
+      internalID: 6234455941521218140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_26
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1974
+        width: 125
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129258ab572a1d3e0800000000000000
+      internalID: -2030663330443220703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_27
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1974
+        width: 125
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3bc82fc5b1c6eb0800000000000000
+      internalID: -4725371822998244388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_28
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1974
+        width: 125
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6941206ad941920800000000000000
+      internalID: 2960164191414294240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_29
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1974
+        width: 125
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f009071702af940800000000000000
+      internalID: 5330608780538285847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1843
+        width: 96
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cc52810186c7360800000000000000
+      internalID: 7168719125200882763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_31
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1839
+        width: 90
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740786ca6e0986040800000000000000
+      internalID: 4641118736414699591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_32
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1853
+        width: 110
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0429ebc7fe55d40800000000000000
+      internalID: 5572623432993095840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_33
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1855
+        width: 107
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115c43f147cbedf50800000000000000
+      internalID: 6908166085358699793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_34
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1846
+        width: 100
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a4635042733ba60800000000000000
+      internalID: 7688549616697363059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_35
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1857
+        width: 113
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5ad724401ea3020800000000000000
+      internalID: 2322415966274561498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_36
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1861
+        width: 125
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866ccc1988a885250800000000000000
+      internalID: 5933644828226930280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_37
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1857
+        width: 113
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e573a231cdeb7d0800000000000000
+      internalID: -2900639135109259759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_38
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1846
+        width: 100
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546aa230f007d1ab0800000000000000
+      internalID: -5035745598550399419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_39
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1844
+        width: 101
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2fec5181e168c80800000000000000
+      internalID: -8320930172726480149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_40
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1842
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f290f79d086ef20800000000000000
+      internalID: 3451587836053630822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_41
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1846
+        width: 93
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188761e2045355380800000000000000
+      internalID: -8983215331953182591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_42
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1473
+        width: 454
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314d1bca3621930f0800000000000000
+      internalID: -1136857211625941997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1718
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd07c0f8d5120dd0800000000000000
+      internalID: -2521428819877360162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_44
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1718
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583165a00a2a3edb0800000000000000
+      internalID: -4763785172575972475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_45
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1718
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231114a7911592760800000000000000
+      internalID: 7433561829818831154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_46
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1718
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e35a8527484a6bb0800000000000000
+      internalID: -4942058170675997727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_47
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1718
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc8d014aca379a50800000000000000
+      internalID: 6527750825246035162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_48
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1720
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63502012b0ed17440800000000000000
+      internalID: 4931967206327190838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_49
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1718
+        width: 101
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1a0dce4f0598ae0800000000000000
+      internalID: -1546615984149716498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_50
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1718
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abdde0a150854660800000000000000
+      internalID: 7369437453342333862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_51
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1720
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2ef1557032e9a50800000000000000
+      internalID: 6529695024133694117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_52
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1718
+        width: 99
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaaca09d79b48e40800000000000000
+      internalID: 5657850980833471167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_53
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1716
+        width: 101
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96b16d5b9bf8cb40800000000000000
+      internalID: 5460891192891913887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_54
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1714
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d8b2e2f97a32170800000000000000
+      internalID: 8152544052586974468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1590
+        width: 109
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99c7a2f8a9c82030800000000000000
+      internalID: 3470245240351738269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_56
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1702
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11b675a6d6545f30800000000000000
+      internalID: 4563367802332164378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_57
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1590
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d6578114eceddf0800000000000000
+      internalID: -153458558305473246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_58
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1590
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ba40fb7cd22b640800000000000000
+      internalID: 5094184464435948436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_59
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1590
+        width: 92
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf50eab6882f93bf0800000000000000
+      internalID: -343977228781091332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_60
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1590
+        width: 108
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a99dd6dd93e29c90800000000000000
+      internalID: -7164413790138820189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_61
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1590
+        width: 103
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6a30faa9370bfb0800000000000000
+      internalID: -4634076908365830466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_62
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1590
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e3ea9969e1818a0800000000000000
+      internalID: -6334279243724341630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_63
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1590
+        width: 92
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b298e58101f03a760800000000000000
+      internalID: 7467829168913156395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_64
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1590
+        width: 108
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bf5409041ed8700800000000000000
+      internalID: 544338797396360026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_65
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1590
+        width: 103
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b6adc8f1ef050c0800000000000000
+      internalID: -4588888608829969645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_66
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1590
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509aa418e37595fc0800000000000000
+      internalID: -3505674908962477819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_67
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1462
+        width: 98
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f3bd05448e5dc00800000000000000
+      internalID: 924900678606471047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_68
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1462
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb21d1e3865297890800000000000000
+      internalID: -7459890178113596738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_69
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1462
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1335e3dfde1681670800000000000000
+      internalID: 8509659170700415793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_70
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1462
+        width: 99
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5d1b520c5f98540800000000000000
+      internalID: 5010806266041325023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_71
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1462
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211156d1770088480800000000000000
+      internalID: -8896860552276143854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_72
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1462
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bafd5a863adc7110800000000000000
+      internalID: 1260121923541400245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_73
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1462
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8668ea14a616b1a0800000000000000
+      internalID: -6794218093759928689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_74
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1462
+        width: 95
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0ce48fdfd096db0800000000000000
+      internalID: -4798288543542755135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_75
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1462
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b841cb0050b3b500800000000000000
+      internalID: 410865848861935792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_76
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1462
+        width: 98
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f6ec187d1ade670800000000000000
+      internalID: 8569683612923752225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_77
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1462
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6323cd11b07e82ec0800000000000000
+      internalID: -3591366668097670602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_78
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1462
+        width: 98
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc77dab562392e210800000000000000
+      internalID: 1360811830375446475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1325
+        width: 113
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232e038baee489c20800000000000000
+      internalID: 3213405104148374066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_80
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1318
+        width: 106
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d694d184ce1886960800000000000000
+      internalID: 7595463623382485357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_81
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1318
+        width: 111
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6a1a959f9b04370800000000000000
+      internalID: 8304842193472956138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_82
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1334
+        width: 99
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa74c8e43ab7850d0800000000000000
+      internalID: -3433858774542301270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_83
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1334
+        width: 94
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b284ed546306650800000000000000
+      internalID: 6224034358735940396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_84
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1334
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4baab2358da6f50a0800000000000000
+      internalID: -6890671427512718668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_85
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1334
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01418091a31c86c90800000000000000
+      internalID: -7176273550942661616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_86
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1334
+        width: 111
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ca467797545ab60800000000000000
+      internalID: 7756682321211993212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_87
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1334
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd699e2298f5f740800000000000000
+      internalID: 5185323852717714933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_88
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1334
+        width: 99
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5656f83675d76b420800000000000000
+      internalID: 2645439645412713829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_89
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1325
+        width: 107
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea987cd009b81b1c0800000000000000
+      internalID: -4489653902688941650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_90
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1336
+        width: 90
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceb06242a60a0a90800000000000000
+      internalID: -7347052548133437747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_91
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1318
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a115d93e15ddb60800000000000000
+      internalID: 7772458569950108248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_92
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1318
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86345fe619185e080800000000000000
+      internalID: -9158771805556227224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_93
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1318
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26436bba49cb2660800000000000000
+      internalID: 7362199338675815979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_94
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1318
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df72180d5394ffe0800000000000000
+      internalID: -1156137176550703145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_95
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1318
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadd02c08865ccb30800000000000000
+      internalID: 4308914085805743534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_96
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1318
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd41c067e88fba550800000000000000
+      internalID: 6173301004990944479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_97
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1206
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ee3490542dfe550800000000000000
+      internalID: 6192399206607744605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_98
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1206
+        width: 110
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb8c599d460e20a0800000000000000
+      internalID: -6904574248357164063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_99
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1206
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e78717694afb3a40800000000000000
+      internalID: 5349144175601747943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_100
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1206
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c31e1fe3a203a4c0800000000000000
+      internalID: -4277572317957188670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_101
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1206
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5542d756539549c80800000000000000
+      internalID: -8316924525975624619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_102
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1206
+        width: 94
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d63146caaa313d60800000000000000
+      internalID: 7868134529137981136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_103
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1206
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50842553af29c1910800000000000000
+      internalID: 1809482753630160901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_104
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1190
+        width: 109
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b0a8e780d4481f0800000000000000
+      internalID: -1043624514765059313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_105
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1206
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebbdbad0f03e5580800000000000000
+      internalID: -8836571607834182683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_106
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1206
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405bd65081cf77c80800000000000000
+      internalID: -8324908206070582012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_107
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1205
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7702eeb7753c7a370800000000000000
+      internalID: 8333844415981166711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_108
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1203
+        width: 102
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91a2a75d77829fb0800000000000000
+      internalID: -4642499293454622307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_109
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1199
+        width: 110
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e46086e8cc956b0800000000000000
+      internalID: -5306985773876752790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_110
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1203
+        width: 102
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab8f3903d79f76c0800000000000000
+      internalID: -4143426199508513883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_111
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1205
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b015f46fea39110800000000000000
+      internalID: 1266548293137140530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_112
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1078
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee46c7e8f98785aa0800000000000000
+      internalID: -6172050662625614610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_113
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1078
+        width: 93
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a17fa4dc674b7e60800000000000000
+      internalID: 7961035299057791398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_114
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1078
+        width: 92
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e15ef9425889f7d0800000000000000
+      internalID: -2884124199343992345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_115
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1078
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d30cb03954454f00800000000000000
+      internalID: 1100360833822360528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_116
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1078
+        width: 92
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abb553ca1e1d9300800000000000000
+      internalID: 260397453752515492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_117
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1078
+        width: 93
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7822d4deec55cb000800000000000000
+      internalID: 53011642854482567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_118
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1078
+        width: 93
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b2c0e8065a7f380800000000000000
+      internalID: -8937493101374854359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_119
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1076
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e33bf03bee7ba70800000000000000
+      internalID: 8842798846195220016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_120
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1076
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9c86bb8592b8b40800000000000000
+      internalID: 5443490035685444041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_121
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1076
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70d5cfb4c1b24ba0800000000000000
+      internalID: -6106122686171852675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_122
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1076
+        width: 94
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fefbd52d67574e0800000000000000
+      internalID: -1984549414898766011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_123
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1076
+        width: 95
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45115c5f534d8c30800000000000000
+      internalID: 4363217690841650506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_124
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1076
+        width: 95
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98a4fa65c62e9ae0800000000000000
+      internalID: -1540751393169299302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_125
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1076
+        width: 95
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efa494c737598af0800000000000000
+      internalID: -393687595385311262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_126
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1076
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292984653f96f9ef0800000000000000
+      internalID: -99244172933295470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_127
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 943
+        width: 90
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e1c864de957ea80800000000000000
+      internalID: -8437676501229625832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_128
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 943
+        width: 90
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff4f22d3f57a6b00800000000000000
+      internalID: 822599572012355576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_129
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 943
+        width: 90
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74576150937d30d0800000000000000
+      internalID: -3441467476562979714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_130
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 943
+        width: 91
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92312f4352d27a1d0800000000000000
+      internalID: -3339650960846613719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_131
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 943
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934f86830caea5660800000000000000
+      internalID: 7375465451073631289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_132
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 947
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1829cb14dae6ef710800000000000000
+      internalID: 1728940997368124033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_133
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1063
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00712e0d50688b40800000000000000
+      internalID: 5442706102462541835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_134
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 995
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0dbc6b98dd93940800000000000000
+      internalID: 5276492021988315330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_135
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 943
+        width: 82
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5a882d3bdb6cd90800000000000000
+      internalID: -7077761184337189389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_136
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 943
+        width: 82
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e285a164520b06fb0800000000000000
+      internalID: -4656528340564682706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_137
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 943
+        width: 83
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e510410bb19598230800000000000000
+      internalID: 3641539749158846814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_138
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 949
+        width: 94
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7646e16996e5e0f00800000000000000
+      internalID: 1084908367826019431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_139
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 949
+        width: 94
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52aef15c2b91672a0800000000000000
+      internalID: -6740171536711292379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_140
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 950
+        width: 122
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3515d63ebe20350800000000000000
+      internalID: 5981602617125589952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_141
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 948
+        width: 130
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc4c3a5f43318820800000000000000
+      internalID: 2918670449422126289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_142
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 946
+        width: 122
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5077bf4fe2b0524b0800000000000000
+      internalID: -5465950276437707003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_143
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 946
+        width: 130
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a24bdc298ccd02e0800000000000000
+      internalID: -2157843756905446751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_144
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 829
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34eb9e97e84a5e60800000000000000
+      internalID: 7951748251711693883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_145
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 831
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ecc0ba04c82c6f0800000000000000
+      internalID: -665815585521873251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_146
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 829
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4104aecd055d880800000000000000
+      internalID: -8586868204758887190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_147
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 827
+        width: 107
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8a4da84079c7670800000000000000
+      internalID: 8537865039352473847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_148
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 829
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5287ae6f799d1850800000000000000
+      internalID: 6349399822258635359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_149
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 829
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be38ff726556f480800000000000000
+      internalID: -8865804934890111305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_150
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 829
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc542b54c6ce79e90800000000000000
+      internalID: -7018881544463694387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_151
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 829
+        width: 101
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecdd3c126f0dd180800000000000000
+      internalID: -9089091558908764958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_152
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 829
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c9db613207839f0800000000000000
+      internalID: -488517263562007438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_153
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 831
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b971dca7944c1a1d0800000000000000
+      internalID: -3341173628660279397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_154
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 831
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a861adc7748bedfd0800000000000000
+      internalID: -2315210541245000054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_155
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 831
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0dca0ef6c2ad280800000000000000
+      internalID: -9017846444833582935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_156
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 831
+        width: 110
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3846cf5b63473c0800000000000000
+      internalID: -4362801983763741719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_157
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 831
+        width: 118
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3639ab3e75b2d640800000000000000
+      internalID: 5103340881535645247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_158
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 831
+        width: 111
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b579ade1f9e308090800000000000000
+      internalID: -8034352882090600613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_159
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 831
+        width: 105
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304632a9ddf33a960800000000000000
+      internalID: 7611998016192603139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_160
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 693
+        width: 96
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8160bfba9b92a39a0800000000000000
+      internalID: -6252639255219468776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_161
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 703
+        width: 74
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d968b6ba9fc4270800000000000000
+      internalID: 8236232333192502575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_162
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 698
+        width: 109
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0523c4c3f01e1fee0800000000000000
+      internalID: -1228953767743049136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_163
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 800
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0207e3421b09e55d0800000000000000
+      internalID: -3071858805328416736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_164
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 800
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03374312fd4334480800000000000000
+      internalID: -8916224704324013264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_165
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 698
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbedf2dab4d08f720800000000000000
+      internalID: 2880066580382736061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_166
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 800
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77631e938195d7450800000000000000
+      internalID: 6088120231859926647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_167
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 800
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b7fc8ed64bf8330800000000000000
+      internalID: 3715386601754295132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_168
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 687
+        width: 130
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c2acbdc919e48a0800000000000000
+      internalID: -6318953124265841654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_169
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 711
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2fcc3df27d93c50800000000000000
+      internalID: 6645579325578736378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_170
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 695
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73ea2ef02921cc00800000000000000
+      internalID: 919061020640207742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_171
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 782
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe47519edae1e8d0800000000000000
+      internalID: -2818713650115162434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_172
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 690
+        width: 90
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6c90b199b0a4980800000000000000
+      internalID: -8554011790025308446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_173
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 692
+        width: 98
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3befaa1d439d320800000000000000
+      internalID: 2583153936395318239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_174
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 782
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4a668e368050490800000000000000
+      internalID: -7780803556018838309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_175
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 690
+        width: 90
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c14859079ee27a0800000000000000
+      internalID: -6399921350692824045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_176
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 692
+        width: 98
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb011ed38d112680800000000000000
+      internalID: -8781705346192176184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_177
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 559
+        width: 78
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a088e712834f78610800000000000000
+      internalID: 1623534712607639562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_178
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 609
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c427c26ae5b7130800000000000000
+      internalID: 3565547597797149796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_179
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 593
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad369bf8ac97da7f0800000000000000
+      internalID: -599689264468761638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_180
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 577
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b850cd3c26b8b9c40800000000000000
+      internalID: 5520159024581707147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_181
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 559
+        width: 78
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6b49b2f0f5a5cf0800000000000000
+      internalID: -262793109487438142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_182
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 559
+        width: 78
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59e0d19a87fb10d0800000000000000
+      internalID: -3450892514925418145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_183
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 559
+        width: 78
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e5b986b65d427d0800000000000000
+      internalID: -2943993599100232078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_184
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 585
+        width: 79
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6643553777f428cc0800000000000000
+      internalID: -3710315768545201050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_185
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 607
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682caf5feb725caa0800000000000000
+      internalID: -6141458815725682042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_186
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 617
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92fb7b72b6b4c760800000000000000
+      internalID: 7477302159034020511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_187
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 568
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3424dd057d000f1c0800000000000000
+      internalID: -4472073505204256189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_188
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 592
+        width: 120
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c7124e67405a170800000000000000
+      internalID: 8188956406123166733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_189
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 604
+        width: 121
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc7060356c8a1900800000000000000
+      internalID: 655991061967043805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_190
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 579
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff813a2360128c500800000000000000
+      internalID: 416619276034840831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_191
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 614
+        width: 123
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b70bff83d5cf960800000000000000
+      internalID: 7637081567502826247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_192
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 614
+        width: 125
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db2e577337f25670800000000000000
+      internalID: 8526148844983823314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_193
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 475
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f5a69a979a19330800000000000000
+      internalID: 3715937507555827509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 482
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0a75a19eb12b010800000000000000
+      internalID: 1203054738444624109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_195
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 475
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7338d765de68a0680800000000000000
+      internalID: -8788063368943664329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_196
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 484
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6bff81d9ef963e0800000000000000
+      internalID: -2059835403862558989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_197
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 472
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4242868d3113afc80800000000000000
+      internalID: -8288258202917133276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_198
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 485
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a08484f694470150800000000000000
+      internalID: 5838710857047244962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_199
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 470
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc1774dafe1af690800000000000000
+      internalID: -7567702161187463980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_200
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 486
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e58873a5b9adf5f0800000000000000
+      internalID: -721233767712651804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_201
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 470
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a3c00ea77638220800000000000000
+      internalID: 2486945196681214498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_202
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 485
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1d9ace307f64340800000000000000
+      internalID: 4847833645138432422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_203
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 471
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b641f7eb987d7950800000000000000
+      internalID: 6448442852471031474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_204
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 480
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c42e4e770e87d80800000000000000
+      internalID: -8252599511610667931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_205
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 467
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c08232207a507280800000000000000
+      internalID: -9047632213730754360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_206
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 481
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaeceec12311b430800000000000000
+      internalID: 3796836996776520381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_207
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 469
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efca605826d3695c0800000000000000
+      internalID: -4209109308383253250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_208
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 476
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e814a982abb20770800000000000000
+      internalID: 8575622947235174632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_209
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 470
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35b1c174283a24c0800000000000000
+      internalID: -4311571964075330244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_210
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 475
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a16dfa87adbdd020800000000000000
+      internalID: 2368257506355798435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_211
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 471
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298a2e777431af540800000000000000
+      internalID: 5042363930469640338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_212
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 475
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552f017696d3d20c0800000000000000
+      internalID: -4598952121565384107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_213
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 470
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb6e4750108bab90800000000000000
+      internalID: -7229543969140610054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_214
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 467
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7207aa044fc54520800000000000000
+      internalID: 2685780643939811962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_215
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 257
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aea0f5ec78e5b750800000000000000
+      internalID: 6320213275215703721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_216
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 312
+        width: 123
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdb81c7ac7fd3380800000000000000
+      internalID: -8989756832124191287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_217
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 314
+        width: 123
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbee4c3cdc65e190800000000000000
+      internalID: -7933815475382850596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_218
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 306
+        width: 259
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b77cee2914d31d90800000000000000
+      internalID: -7128120580570843208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_219
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 312
+        width: 123
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75e46b529c43eef0800000000000000
+      internalID: -80136176880261763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_220
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 312
+        width: 123
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dae6f3c291073040800000000000000
+      internalID: 4627168872011066067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_221
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 160
+        width: 113
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8dcdee2505fe440800000000000000
+      internalID: 4967277231137937576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_222
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f87c760cd1217940800000000000000
+      internalID: 5292048266022385906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_khaki_full_223
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 129
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5308b0110a78400800000000000000
+      internalID: 326405493075490219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      char_khaki_full_0: 284659224239840227
+      char_khaki_full_1: 3890319663737840383
+      char_khaki_full_10: -6205349193123491313
+      char_khaki_full_100: -4277572317957188670
+      char_khaki_full_101: -8316924525975624619
+      char_khaki_full_102: 7868134529137981136
+      char_khaki_full_103: 1809482753630160901
+      char_khaki_full_104: -1043624514765059313
+      char_khaki_full_105: -8836571607834182683
+      char_khaki_full_106: -8324908206070582012
+      char_khaki_full_107: 8333844415981166711
+      char_khaki_full_108: -4642499293454622307
+      char_khaki_full_109: -5306985773876752790
+      char_khaki_full_11: 3631401597383135239
+      char_khaki_full_110: -4143426199508513883
+      char_khaki_full_111: 1266548293137140530
+      char_khaki_full_112: -6172050662625614610
+      char_khaki_full_113: 7961035299057791398
+      char_khaki_full_114: -2884124199343992345
+      char_khaki_full_115: 1100360833822360528
+      char_khaki_full_116: 260397453752515492
+      char_khaki_full_117: 53011642854482567
+      char_khaki_full_118: -8937493101374854359
+      char_khaki_full_119: 8842798846195220016
+      char_khaki_full_12: -1817777332221715099
+      char_khaki_full_120: 5443490035685444041
+      char_khaki_full_121: -6106122686171852675
+      char_khaki_full_122: -1984549414898766011
+      char_khaki_full_123: 4363217690841650506
+      char_khaki_full_124: -1540751393169299302
+      char_khaki_full_125: -393687595385311262
+      char_khaki_full_126: -99244172933295470
+      char_khaki_full_127: -8437676501229625832
+      char_khaki_full_128: 822599572012355576
+      char_khaki_full_129: -3441467476562979714
+      char_khaki_full_13: 2821926968845244791
+      char_khaki_full_130: -3339650960846613719
+      char_khaki_full_131: 7375465451073631289
+      char_khaki_full_132: 1728940997368124033
+      char_khaki_full_133: 5442706102462541835
+      char_khaki_full_134: 5276492021988315330
+      char_khaki_full_135: -7077761184337189389
+      char_khaki_full_136: -4656528340564682706
+      char_khaki_full_137: 3641539749158846814
+      char_khaki_full_138: 1084908367826019431
+      char_khaki_full_139: -6740171536711292379
+      char_khaki_full_14: 3126730470623350082
+      char_khaki_full_140: 5981602617125589952
+      char_khaki_full_141: 2918670449422126289
+      char_khaki_full_142: -5465950276437707003
+      char_khaki_full_143: -2157843756905446751
+      char_khaki_full_144: 7951748251711693883
+      char_khaki_full_145: -665815585521873251
+      char_khaki_full_146: -8586868204758887190
+      char_khaki_full_147: 8537865039352473847
+      char_khaki_full_148: 6349399822258635359
+      char_khaki_full_149: -8865804934890111305
+      char_khaki_full_15: 1716841615354663917
+      char_khaki_full_150: -7018881544463694387
+      char_khaki_full_151: -9089091558908764958
+      char_khaki_full_152: -488517263562007438
+      char_khaki_full_153: -3341173628660279397
+      char_khaki_full_154: -2315210541245000054
+      char_khaki_full_155: -9017846444833582935
+      char_khaki_full_156: -4362801983763741719
+      char_khaki_full_157: 5103340881535645247
+      char_khaki_full_158: -8034352882090600613
+      char_khaki_full_159: 7611998016192603139
+      char_khaki_full_16: -8706437748728885895
+      char_khaki_full_160: -6252639255219468776
+      char_khaki_full_161: 8236232333192502575
+      char_khaki_full_162: -1228953767743049136
+      char_khaki_full_163: -3071858805328416736
+      char_khaki_full_164: -8916224704324013264
+      char_khaki_full_165: 2880066580382736061
+      char_khaki_full_166: 6088120231859926647
+      char_khaki_full_167: 3715386601754295132
+      char_khaki_full_168: -6318953124265841654
+      char_khaki_full_169: 6645579325578736378
+      char_khaki_full_17: -8555598828016178886
+      char_khaki_full_170: 919061020640207742
+      char_khaki_full_171: -2818713650115162434
+      char_khaki_full_172: -8554011790025308446
+      char_khaki_full_173: 2583153936395318239
+      char_khaki_full_174: -7780803556018838309
+      char_khaki_full_175: -6399921350692824045
+      char_khaki_full_176: -8781705346192176184
+      char_khaki_full_177: 1623534712607639562
+      char_khaki_full_178: 3565547597797149796
+      char_khaki_full_179: -599689264468761638
+      char_khaki_full_18: 4478540804656493358
+      char_khaki_full_180: 5520159024581707147
+      char_khaki_full_181: -262793109487438142
+      char_khaki_full_182: -3450892514925418145
+      char_khaki_full_183: -2943993599100232078
+      char_khaki_full_184: -3710315768545201050
+      char_khaki_full_185: -6141458815725682042
+      char_khaki_full_186: 7477302159034020511
+      char_khaki_full_187: -4472073505204256189
+      char_khaki_full_188: 8188956406123166733
+      char_khaki_full_189: 655991061967043805
+      char_khaki_full_19: 5368290084792451916
+      char_khaki_full_190: 416619276034840831
+      char_khaki_full_191: 7637081567502826247
+      char_khaki_full_192: 8526148844983823314
+      char_khaki_full_193: 3715937507555827509
+      char_khaki_full_194: 1203054738444624109
+      char_khaki_full_195: -8788063368943664329
+      char_khaki_full_196: -2059835403862558989
+      char_khaki_full_197: -8288258202917133276
+      char_khaki_full_198: 5838710857047244962
+      char_khaki_full_199: -7567702161187463980
+      char_khaki_full_2: 2783566842339961006
+      char_khaki_full_20: -8181266610166690727
+      char_khaki_full_200: -721233767712651804
+      char_khaki_full_201: 2486945196681214498
+      char_khaki_full_202: 4847833645138432422
+      char_khaki_full_203: 6448442852471031474
+      char_khaki_full_204: -8252599511610667931
+      char_khaki_full_205: -9047632213730754360
+      char_khaki_full_206: 3796836996776520381
+      char_khaki_full_207: -4209109308383253250
+      char_khaki_full_208: 8575622947235174632
+      char_khaki_full_209: -4311571964075330244
+      char_khaki_full_21: 1183845054963801105
+      char_khaki_full_210: 2368257506355798435
+      char_khaki_full_211: 5042363930469640338
+      char_khaki_full_212: -4598952121565384107
+      char_khaki_full_213: -7229543969140610054
+      char_khaki_full_214: 2685780643939811962
+      char_khaki_full_215: 6320213275215703721
+      char_khaki_full_216: -8989756832124191287
+      char_khaki_full_217: -7933815475382850596
+      char_khaki_full_218: -7128120580570843208
+      char_khaki_full_219: -80136176880261763
+      char_khaki_full_22: 4088345929155309265
+      char_khaki_full_220: 4627168872011066067
+      char_khaki_full_221: 4967277231137937576
+      char_khaki_full_222: 5292048266022385906
+      char_khaki_full_223: 326405493075490219
+      char_khaki_full_23: -2093043890972703941
+      char_khaki_full_24: -7597950218508331488
+      char_khaki_full_25: 6234455941521218140
+      char_khaki_full_26: -2030663330443220703
+      char_khaki_full_27: -4725371822998244388
+      char_khaki_full_28: 2960164191414294240
+      char_khaki_full_29: 5330608780538285847
+      char_khaki_full_3: 8345742061867060360
+      char_khaki_full_30: 7168719125200882763
+      char_khaki_full_31: 4641118736414699591
+      char_khaki_full_32: 5572623432993095840
+      char_khaki_full_33: 6908166085358699793
+      char_khaki_full_34: 7688549616697363059
+      char_khaki_full_35: 2322415966274561498
+      char_khaki_full_36: 5933644828226930280
+      char_khaki_full_37: -2900639135109259759
+      char_khaki_full_38: -5035745598550399419
+      char_khaki_full_39: -8320930172726480149
+      char_khaki_full_4: -4223187997117106023
+      char_khaki_full_40: 3451587836053630822
+      char_khaki_full_41: -8983215331953182591
+      char_khaki_full_42: -1136857211625941997
+      char_khaki_full_43: -2521428819877360162
+      char_khaki_full_44: -4763785172575972475
+      char_khaki_full_45: 7433561829818831154
+      char_khaki_full_46: -4942058170675997727
+      char_khaki_full_47: 6527750825246035162
+      char_khaki_full_48: 4931967206327190838
+      char_khaki_full_49: -1546615984149716498
+      char_khaki_full_5: 6545209371521656897
+      char_khaki_full_50: 7369437453342333862
+      char_khaki_full_51: 6529695024133694117
+      char_khaki_full_52: 5657850980833471167
+      char_khaki_full_53: 5460891192891913887
+      char_khaki_full_54: 8152544052586974468
+      char_khaki_full_55: 3470245240351738269
+      char_khaki_full_56: 4563367802332164378
+      char_khaki_full_57: -153458558305473246
+      char_khaki_full_58: 5094184464435948436
+      char_khaki_full_59: -343977228781091332
+      char_khaki_full_6: 7659009541319357739
+      char_khaki_full_60: -7164413790138820189
+      char_khaki_full_61: -4634076908365830466
+      char_khaki_full_62: -6334279243724341630
+      char_khaki_full_63: 7467829168913156395
+      char_khaki_full_64: 544338797396360026
+      char_khaki_full_65: -4588888608829969645
+      char_khaki_full_66: -3505674908962477819
+      char_khaki_full_67: 924900678606471047
+      char_khaki_full_68: -7459890178113596738
+      char_khaki_full_69: 8509659170700415793
+      char_khaki_full_7: -912911120415585410
+      char_khaki_full_70: 5010806266041325023
+      char_khaki_full_71: -8896860552276143854
+      char_khaki_full_72: 1260121923541400245
+      char_khaki_full_73: -6794218093759928689
+      char_khaki_full_74: -4798288543542755135
+      char_khaki_full_75: 410865848861935792
+      char_khaki_full_76: 8569683612923752225
+      char_khaki_full_77: -3591366668097670602
+      char_khaki_full_78: 1360811830375446475
+      char_khaki_full_79: 3213405104148374066
+      char_khaki_full_8: 5831089283501946210
+      char_khaki_full_80: 7595463623382485357
+      char_khaki_full_81: 8304842193472956138
+      char_khaki_full_82: -3433858774542301270
+      char_khaki_full_83: 6224034358735940396
+      char_khaki_full_84: -6890671427512718668
+      char_khaki_full_85: -7176273550942661616
+      char_khaki_full_86: 7756682321211993212
+      char_khaki_full_87: 5185323852717714933
+      char_khaki_full_88: 2645439645412713829
+      char_khaki_full_89: -4489653902688941650
+      char_khaki_full_9: -4360718422049292294
+      char_khaki_full_90: -7347052548133437747
+      char_khaki_full_91: 7772458569950108248
+      char_khaki_full_92: -9158771805556227224
+      char_khaki_full_93: 7362199338675815979
+      char_khaki_full_94: -1156137176550703145
+      char_khaki_full_95: 4308914085805743534
+      char_khaki_full_96: 6173301004990944479
+      char_khaki_full_97: 6192399206607744605
+      char_khaki_full_98: -6904574248357164063
+      char_khaki_full_99: 5349144175601747943
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
